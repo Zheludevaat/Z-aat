@@ -1,1 +1,21 @@
 # Z-aat
+
+This repository contains a small prototype for a retro top-down RPG built with Pygame.
+It demonstrates simple movement and displays a short Kabbalah lesson when run.
+
+## Requirements
+- Python 3.12+
+- `pygame`
+
+Install dependencies:
+```
+pip install pygame
+```
+
+## Running
+Execute the game with:
+```
+python game/main.py
+```
+A window will open allowing you to move a white square with the arrow keys.
+A short lesson about the sefirot will print to the console at startup.
