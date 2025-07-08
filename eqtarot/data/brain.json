@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "The Fool",
+    "triad": ["innocence", "recklessness", "adventure"],
+    "path": 11,
+    "letter": "Aleph",
+    "astro": "Air",
+    "alch": "calcination",
+    "cycle": "dawn",
+    "geom": ["circle"],
+    "motifs": ["spiral_nebula"]
+  },
+  {
+    "id": 1,
+    "name": "The Magician",
+    "triad": ["will", "manipulation", "direction"],
+    "path": 12,
+    "letter": "Beth",
+    "astro": "Mercury",
+    "alch": "coagulation",
+    "cycle": "midday",
+    "geom": ["line"],
+    "motifs": ["split_sun_moon"]
+  },
+  {
+    "id": 2,
+    "name": "The High Priestess",
+    "triad": ["mystery", "ignorance", "intuition"],
+    "path": 13,
+    "letter": "Gimel",
+    "astro": "Moon",
+    "alch": "dissolution",
+    "cycle": "night",
+    "geom": ["cross"],
+    "motifs": ["split_sun_moon"]
+  }
+]
